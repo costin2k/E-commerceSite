@@ -1,0 +1,14 @@
+.product-details {
+  width: 100%;
+  padding: 60px 10vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.image-slider {
+  width: 500px;
+  height: 500px;
+  position: relative;
+  background-image: url("../img/product\ image\ 1.png");
+  background-size: cover;
+}
